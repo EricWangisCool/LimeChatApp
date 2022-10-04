@@ -1,7 +1,7 @@
 # LimeChatApp
 
 Hello~ 
-您可以使用此帳密做軟體測試, 喜歡我的作品的話, 可以用"eynyseric520@gmail"聯繫到我喔~~ 謝謝<br>
+您可以使用此帳密做軟體測試, 喜歡我的作品的話, 可以用"eynyseric520@gmail"聯繫到我喔~~ 謝謝<br><br>
 帳號: Eric1234, 密碼: 1234
 
 Hello~ 
