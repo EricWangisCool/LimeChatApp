@@ -1,9 +1,14 @@
 # LimeChatApp
 
-Hello~ 
-您可以使用此帳密做軟體測試, 喜歡我的作品的話, 可以用"eynyseric520@gmail"聯繫到我喔~~ 謝謝<br><br>
-帳號: Eric1234, 密碼: 1234
+<----------------中文介紹---------------->
+使用技術： Java, RDBMS Design (MySQL), JDBC, BCrypt
+附註: 裡面有SQL檔可以匯入，然後使用底下帳密登入測試，謝謝!<br>
+Login Account, Password: "Eric1234", "1234"
+MySQL port, account, password: "3306", "root", "root"
 
-Hello~ 
-You are welcome to use below account for software testing, if it fit your taste, I am pleased to receive your mail through "eynyseric520@gmail" ~~ thank you.<br>  
-Account: Eric1234, Password: 1234
+
+<----------------English Desc---------------->
+Used skills： Java, RDBMS Design (MySQL), JDBC, BCrypt
+Remark: There is a SQL file inside for your import, you may use below account to log in and try "LimeChatApp", thank you!
+Login Account, Password: "Eric1234", "1234"
+MySQL port, account, password: "3306", "root", "root"
