@@ -7,7 +7,7 @@ Login Account, Password: "Eric1234", "1234"<br>
 MySQL port, account, password: "3306", "root", "root"
 
 
-<----------------English Desc----------------><BR>
+<----------------English Desc----------------><BR><br>
 Used skills： Java, RDBMS Design (MySQL), JDBC, BCrypt<br><br>
 Remark: There is a SQL file inside for your import, you may use below account to log in and try "LimeChatApp", thank you!<br>
 Login Account, Password: "Eric1234", "1234"<br>
